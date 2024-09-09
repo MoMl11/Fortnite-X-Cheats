@@ -37,3 +37,6 @@ AirStuck for tactical advantage
 Instant revive option
 Toggleable FOV circle
 Customizable crosshair
+#
+**issues**
+if you got some issues whit the Cheat menu the add me on Discord: fluiio_34698
