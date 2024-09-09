@@ -22,8 +22,8 @@ Zusätzlich gibt es Anpassungsmöglichkeiten, um das Erscheinungsbild der Cheats
 
 
 
-**Features pee**
-
+**Features peek**
+#
 Aimbot with adjustable settings
 Enhanced ESP (Box, Skeleton, Lines, Player Names)
 Stream sniper detection
